@@ -35,3 +35,5 @@
 
 realtime/build
 patches/preprocessed.wav
+
+report/.DS_Store
